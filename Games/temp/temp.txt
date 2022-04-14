@@ -1,0 +1,54 @@
+Стуктура каталогов создана D:\Java\dz33_IO\Games\savegames
+Стуктура каталогов создана D:\Java\dz33_IO\Games\temp
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\savegame.zip записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat удалён.
+Файл save1.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл save2.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл save3.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
+Ошибка при создании структуры каталогов D:\Java\dz33_IO\Games\savegames. (Возможно, каталоги уже существуют).
+Ошибка при создании структуры каталогов D:\Java\dz33_IO\Games\temp. (Возможно, каталоги уже существуют).
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\savegame.zip записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat удалён.
+Файл save1.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл save2.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл save3.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
+Ошибка при создании структуры каталогов D:\Java\dz33_IO\Games\savegames. (Возможно, каталоги уже существуют).
+Ошибка при создании структуры каталогов D:\Java\dz33_IO\Games\temp. (Возможно, каталоги уже существуют).
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat добавлен в архив.
+Файл D:\Java\dz33_IO\Games\savegames\savegame.zip записан на диск.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat удалён.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat удалён.
+Файл save1.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save1.dat записан на диск.
+Файл save2.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save2.dat записан на диск.
+Файл save3.dat распакован.
+Файл D:\Java\dz33_IO\Games\savegames\save3.dat записан на диск.
